@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tensorflow==2.10.0
+python-multipart
+opencv-python
+python-dotenv
